@@ -1,0 +1,27 @@
+<% include header %>
+
+<h1>Furseum</h1>
+<h3>A museum with a furry touch</h3>
+
+<nav>
+  <h4>Categories:</h4>
+  <% for (var i = 0; i < categorieen.length; i++) { %>
+    <a class="uitzondering" href="/categorieen/<%- i %>"><%- categorieen[i] %></a>
+  <% } %>
+</nav>
+
+<div class="main-carousel" data-flickity='{ "wrapAround": true }'>
+  <% var teller = 1; %>
+  <% nieuws.forEach(function(item){ %>
+      <div class="carousel-cell">
+        <h2>
+          <a href=/items/<%- item.id %>><%- item.titel %></a>
+        </h2>
+        <img src="/img/<%- item.afbeeldings %>" alt="<%- item.titel %>">
+
+    </div>
+    <% teller++;}); %>
+</div>
+
+
+<% include footer %>

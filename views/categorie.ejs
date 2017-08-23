@@ -1,0 +1,23 @@
+<% include header %>
+
+<h3 style="margin-bottom:30px;"><a href="/">< Back to the full gallery</a></h3>
+
+<div class="main-carousel" data-flickity='{ "wrapAround": true }'>
+  <% for (var i = 0; i < items.length; i++) { %>
+    <% if (items[i].categorieen.indexOf(categorieen[id]) !== -1) { %>
+      <div class="carousel-cell">
+          <h2>
+            <a href=/items/<%- items[i].id %>><%- items[i].titel %></a>
+          </h2>
+          <img src="/img/<%- items[i].afbeeldings %>" alt="<%- items[i].titel %>">
+          <p><%- items[i].datum %></p>
+
+          <p>
+            <%- items[i].samenvatting %>
+          </p>
+      </div>
+    <% } %>
+  <% } %>
+</div>
+
+<% include footer %>

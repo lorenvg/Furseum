@@ -1,0 +1,85 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Chilling with Johnny",
+            "id": 212,
+            "categorieen": ["Chilling","With friends"],
+            "body": "<p>It was a lovely sunny day when this painting was made. The painter was inspired by the odd friendship between Johnny and his feline fella.</p>",
+            "afbeeldingl": "schilderij1.png",
+            "afbeeldings": "schilderij-1.png"
+        },
+        {
+            "titel": "Dinner's ready",
+            "id": 210,
+            "categorieen": ["Eating","With friends"],
+            "body": "<p>That day was a lovely day for the feline and his other animal friends. The owner made a lot of food for everyone in the house.</p>",
+            "afbeeldingl": "schilderij.png",
+            "afbeeldings": "schilderij-2.png"
+        },
+        {
+            "titel": "Falling asleep",
+            "id": 198,
+            "categorieen": ["Chilling","With friends"],
+            "body": "<p>The painter caught the feline falling asleep. His best friend, baby fella, was there to sing a lullaby.</p>",
+            "afbeeldingl": "schilderij3.png",
+            "afbeeldings": "schilderij-3.png"
+        },
+        {
+            "titel": "Don't touch me",
+            "id": 197,
+            "categorieen": ["Chilling","With friends"],
+            "body": "<p>God wanted to touch the feline, but mister feline said no. Because of that, mister feline is gaining more weight.</p>",
+            "afbeeldingl": "schilderij4.png",
+            "afbeeldings": "schilderij-4.png"
+        },
+        {
+            "titel": "My twin brother and his girlfriend",
+            "id": 196,
+            "categorieen": ["Chilling","With a lady"],
+            "body": "<p>The feline's twin brother joined mister feline for dinner that day. Feline's twin brother took his girlfriend with him, but she didn't brought any clothes with her.</p>",
+            "afbeeldingl": "schilderij5.png",
+            "afbeeldings": "schilderij-5.png"
+        },
+        {
+            "titel": "Kater",
+            "id": 195,
+            "categorieen": ["Eating","With friends"],
+            "body": "<p>Mister feline had a great day. But the morning after he had a so called 'kater'.</p>",
+            "afbeeldingl": "schilderij6.png",
+            "afbeeldings": "schilderij-6.png"
+        },
+        {
+            "titel": "Following the red dot",
+            "id": 194,
+            "categorieen": ["Chilling","With friends"],
+            "body": "<p>The painter was painting with a paint brush that had a laser in it. Little did he know that it was turned on and distracting his models.</p>",
+            "afbeeldingl": "schilderij7.png",
+            "afbeeldings": "schilderij-7.png"
+        },
+        {
+            "titel": "One cat to rule them all",
+            "id": 193,
+            "categorieen": ["Chilling","With a lady"],
+            "body": "<p>Mister feline was helping Victoria to conquer the world.</p>",
+            "afbeeldingl": "schilderij8.png",
+            "afbeeldings": "schilderij-8.png"
+        },
+        {
+            "titel": "No, not the milk",
+            "id": 192,
+            "categorieen": ["Eating","With a lady"],
+            "body": "<p>Mister feline's milk was taken away that day. He got it back, but it was turned into something hideous called pudding.</p>",
+            "afbeeldingl": "schilderij9.png",
+            "afbeeldings": "schilderij-9.png"
+        },
+        {
+            "titel": "Hunting",
+            "id": 191,
+            "categorieen": ["Chilling","With friends"],
+            "body": "<p>That was the last day they saw Griffin. He jumped on the back of mister feline, but mister feline ran away with him straight into the forest.</p>",
+            "afbeeldingl": "schilderij10.png",
+            "afbeeldings": "schilderij-10.png"
+        }
+    ]
+}
